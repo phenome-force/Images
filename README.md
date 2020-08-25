@@ -1,1 +1,1 @@
-# Images used at [PhenomeForce website](https://phenome-force.github.io/PhenomeForce/)
+# Images used at [PhenomeForce](https://phenome-force.github.io/PhenomeForce/) website.
